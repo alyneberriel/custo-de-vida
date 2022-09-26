@@ -11,7 +11,7 @@ Resumo do projeto:
 - Elaboramos graficos e analises através do DataStudio.
 
 
-#Tecnologias utilizadas para realização do projeto:
+Tecnologias utilizadas para realização do projeto:
 - Google Cloud Platform (CGP)
 - Cloud Storage
 - DataStudio
